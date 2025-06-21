@@ -3,9 +3,6 @@
 A simple and user-friendly To-Do List desktop application built using Python and Tkinter.  
 This app allows you to manage daily tasks — add, delete, save, and load them easily.
 
-## 📸 Preview
-![screenshot](screenshot.png) <!-- Optional: Add a screenshot of the app here -->
-
 ## ✅ Features
 - Add new tasks
 - Delete selected tasks
